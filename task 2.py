@@ -1,4 +1,5 @@
 class Mis:
+    
     def all_n_primes(self, no):
         return list(range(1, no + 1))
 
