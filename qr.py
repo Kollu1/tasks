@@ -72,3 +72,4 @@ class QR_handling():
 
 call = QR_handling()
 call.run()
+
