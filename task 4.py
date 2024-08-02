@@ -78,3 +78,4 @@ class Task4:
 if __name__ == "__main__":
     call = Task4()
     call.print_output()
+
